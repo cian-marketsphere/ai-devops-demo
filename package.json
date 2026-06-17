@@ -1,0 +1,11 @@
+{
+  "name": "ai-devops-demo",
+  "version": "1.0.0",
+  "description": "Demo repo for AI + DevOps course Part 5",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

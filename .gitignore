@@ -1,0 +1,4 @@
+node_modules/
+test-output.txt
+recent-diff.txt
+claude-response.json
